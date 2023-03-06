@@ -67,6 +67,15 @@ div#carousel {
     margin-top: 15vh;
     text-align: center;
   }
+.wishbirth{
+    position: absolute;
+    margin-bottom: 0px;
+    bottom: 0;
+    background: url(../img/birthday.gif) bottom no-repeat;
+    background-size: contain;
+    width: 100%;
+    height: 250px;
+  }
   h1 {
     width: 100%;
     font-size: 333%;
