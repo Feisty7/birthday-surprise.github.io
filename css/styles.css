@@ -213,3 +213,6 @@ div#carousel {
       transform: translateX(-50%);
     }
   }
+  .no-padding {
+    padding: 0 !important;
+  }
